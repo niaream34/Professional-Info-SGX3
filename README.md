@@ -1,2 +1,6 @@
-# Professional-Info-SGX3
- Professional picture, resume, personal statement, and links to professional social media
+# Hello, I am Niarea Matthews! My academic and professional interests center on technology, aviation, and global learning. I am a university student currently studying aviation at Elizabeth City State University, and I previously studied computer science at NYU Shanghai. Living and studying in China helped me develop independence, cross-cultural communication skills, and an interest in systems that connect people globally. I have continued to build technical skills through coursework, tutoring in biology, English, and computer science, and participating in research projects that involve computational methods and data analysis.
+
+# Outside the classroom, I have experience teaching and mentoring younger students as an assistant taekwondo instructor, where I supported children in building confidence, discipline, and motor skills. I enjoy helping others learn, and this experience showed me the importance of patience and clear communication. I am also applying these strengths in software and aviation contexts, where safety, precision, and collaboration matter. I want to build a career that combines technical problem-solving with meaningful impact, whether through innovation in aerospace systems, software development, or roles where education and technology intersect. My long-term goal is to continue learning, exploring new environments, and contributing to projects that open access to knowledge and opportunity.
+
+
+# Keep up with me on LinkedIn ---> https://www.linkedin.com/in/niarea-matthews-9b7093284/
